@@ -9,6 +9,9 @@ This repository contains the detailed analysis, methodologies, and outcomes of t
 - Addressed and resolved **miscalculated sundry credits worth ₹20 lakhs**.
 - Featured in the Book **Capstone Chronicles by IIT Madras** for its innovative impact on business operations.
 
+## 🎥 Post-Project Interview
+Watch the business owner discuss the project's impact: **[YouTube Interview](https://youtu.be/PLxXsfBW1gw)**
+
 ## 🎯 Project Goals
 1. **Resolve inventory discrepancies & stock disappearance issues.**
 2. **Optimize supply chain & business operations.**
@@ -35,9 +38,6 @@ This repository contains the detailed analysis, methodologies, and outcomes of t
 - **Operational transparency** improved through structured data management.
 - **Legal & strategic interventions** enhanced accountability.
 - **Long-term digital & market expansion strategies initiated.**
-
-## 🎥 Post-Project Interview
-Watch the business owner discuss the project's impact: **[YouTube Interview](https://youtu.be/PLxXsfBW1gw)**
 
 ## 📂 Repository Contents
 - **Project Report**: Detailed documentation of the analysis, methodologies & outcomes.
